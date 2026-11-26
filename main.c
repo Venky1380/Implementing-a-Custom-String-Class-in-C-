@@ -38,8 +38,8 @@ class Mystring{
 	public:
 
 	Mystring(){
-		str=new char[1];
-		str[0]='\0';
+		//str=new char[1];
+		//str[0]='\0';
 	};
 
 	Mystring(const char *p){
